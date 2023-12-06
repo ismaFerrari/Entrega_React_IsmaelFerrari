@@ -45,4 +45,4 @@ En el archivo `.env.example` estan las variables que deben ir para poder llenarl
 ![image02](https://user-images.githubusercontent.com/44064190/95280215-db8c8480-082a-11eb-9611-b72f2d175a98.png)
 
 ## VIDEO
-Hacé click [ACA](https://www.youtube.com/watch?v=6-zm3eOkLoc) para ver un video de demostración del proceso de compra de la app.
+Hacé click [ACA](https://www.youtube.com/watch?v=6-zm3eOkLoc) para ver un video de demostración del proceso de compra de la app.# Entrega_React_IsmaelFerrari
